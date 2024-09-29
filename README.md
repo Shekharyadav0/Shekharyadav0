@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me on  my LinkedIn profil https://www.linkedin.com/in/shekhar-yadav 
 - 😄 Pronouns: Sekhu 
-- ⚡ Fun fact: to watching movies and series 
+ 
 
 <!---
 Shekharyadav0/Shekharyadav0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
